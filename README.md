@@ -1,0 +1,1 @@
+This folder contains the python programs that implement the algorithms on the book 'Introduction to Algorithm'.
